@@ -2,6 +2,7 @@ show databases;
 
 create database testmis;
 
+
 use testmis;
 
 drop table book;
